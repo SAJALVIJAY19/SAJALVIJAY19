@@ -1,7 +1,7 @@
 # 👋 Hey, I'm **Sajal Vijayvargiya**
 
 🎓 *Data Science & CSE Student*  
-🚀 *Aspiring Data Engineer and Software Engineer*  
+🚀 *Aspiring Data Engineer | Software Engineer | Data Analyst*  
 📍 India  
 
 I’m passionate about building intelligent systems, solving real-world problems with data, and making products that actually feel **smart** — not just "ML slapped on a spreadsheet."  
@@ -50,22 +50,12 @@ I love turning ideas into projects, learning advanced tools, and experimenting w
 
 ---
 
-## ☕ Fun Facts About Me
-
-- I learn fast when the **deadline is close** 😅  
-- I break things → fix them → act like nothing happened 👀  
-- I genuinely enjoy building something from scratch  
-- If I Google something more than 3 times → it becomes a note 📓  
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=html5)](#)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajal-vijay-6823b7295/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sajalvijay10@gmail.com)
 
 ---
 
-### ⭐ If you like my work, consider giving a star to a repo — it keeps the motivation alive :)
+### **Thank you for taking the time to explore my work. I appreciate your interest, and I look forward to potential collaboration or professional opportunities.**
 
