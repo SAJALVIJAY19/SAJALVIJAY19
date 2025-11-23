@@ -1,9 +1,7 @@
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFlYygyNGtnaWx3aXI0bGdiNHZqaGFkc2dmd3dpcHQzN3l5ajlqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VTtANKl0beDFQRLDTh/giphy.gif" width="240"/>
-
-# 👋 Hey, I'm **Sajal Vijay**
+# 👋 Hey, I'm **Sajal Vijayvargiya**
 
 🎓 *Data Science & CSE Student*  
-🚀 *Aspiring Data Scientist & AI Engineer*  
+🚀 *Aspiring Data Engineer and Software Engineer*  
 📍 India  
 
 I’m passionate about building intelligent systems, solving real-world problems with data, and making products that actually feel **smart** — not just "ML slapped on a spreadsheet."  
@@ -49,20 +47,6 @@ I love turning ideas into projects, learning advanced tools, and experimenting w
 | 🔥 Mental Health Prediction | `ML • Streamlit • RF/XGBoost` | Predict workplace mental health risks with insights dashboard |
 | 🛍 AI Product Recommendation System | `Full Stack • ML • Hybrid Recommender` | Smart recommender engine for e-commerce users |
 | 📈 Stock Price Prediction | `Python • ML • Time Series` | Predict stock movement. No fake hype, only analysis 📉📈 |
-
----
-
-## 📊 GitHub Stats (Because why not 👇)
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
-<br>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react)
-<br>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
-
-</div>
 
 ---
 
