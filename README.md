@@ -54,6 +54,8 @@ I love turning ideas into projects, learning advanced tools, and experimenting w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajal-vijay-6823b7295/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sajalvijay10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sajal-portfolio.vercel.app/)
+
 
 ---
 
