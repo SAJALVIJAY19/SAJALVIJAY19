@@ -40,16 +40,6 @@ I love turning ideas into projects, learning advanced tools, and experimenting w
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Description |
-|--------|--------|-------------|
-| 🔥 Mental Health Prediction | `ML • Streamlit • RF/XGBoost` | Predict workplace mental health risks with insights dashboard |
-| 🛍 AI Product Recommendation System | `Full Stack • ML • Hybrid Recommender` | Smart recommender engine for e-commerce users |
-| 📈 Stock Price Prediction | `Python • ML • Time Series` | Predict stock movement. No fake hype, only analysis 📉📈 |
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajal-vijay-6823b7295/)
