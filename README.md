@@ -109,6 +109,8 @@ I realized I love building things that **actually work in the real world**.
 ![German](https://img.shields.io/badge/German-Conversational-1565C0?style=for-the-badge)
 
 
+More about me → (https://github.com/SAJALVIJAY19/About-Me)
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajal-vijay-6823b7295/)
