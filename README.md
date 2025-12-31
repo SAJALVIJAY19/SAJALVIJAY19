@@ -1,20 +1,26 @@
-# 👋 Hey, I'm **Sajal Vijayvargiya**
+# 👋 Hey there! I’m Sajal Vijayvargiya
 
-🎓 *Data Science & CSE Student*  
-🚀 *Aspiring Data Engineer | Software Engineer | Data Analyst*  
-📍 India  
+🎓 **B.Tech CSE (Data Science & Analytics)**  
+🧑‍💻 **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
+📍 **India 🇮🇳**
 
-I’m passionate about building intelligent systems, solving real-world problems with data, and making products that actually feel **smart** — not just "ML slapped on a spreadsheet."  
-I love turning ideas into projects, learning advanced tools, and experimenting with real datasets.
+I enjoy turning **messy data into clean insights**, **ideas into working systems**,  
+and **coffee into code ☕**.
+
+Somewhere between debugging errors, optimizing SQL queries, and fixing
+*"why is this container not starting?"* moments,  
+I realized I love building things that **actually work in the real world**.
 
 ---
 
-## 🧠 What I'm Currently Doing
+## 🚀 What I’m Busy With These Days
 
-- 📚 Mastering **Data Structures & Algorithms** in Python  
-- 🤖 Working on **AI + Full Stack Industry Projects**
-- ☁️ Learning **Data Engineering Tools** like Kafka, Airflow, Snowflake, and Spark  
-- 🛠 Improving portfolio and preparing for future opportunities 🚀
+- 🧠 Battling **DSA (Python)** — some days I win, some days it humbles me  
+- 🏗️ Building **industry-style, end-to-end projects** (not just demos)
+- 📊 Making data tell meaningful stories using **Power BI & Python**
+- ⚙️ Learning **Data Engineering workflows** (pipelines > notebooks)
+- ☁️ Understanding how software behaves *after* it leaves my laptop
+- 🧾 Maintaining different resume avatars (SDE, DA, DE, BA — yes, it’s a lot 😄)
 
 ---
 
