@@ -4,6 +4,8 @@
 🧑‍💻 **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
 📍 **India 🇮🇳**
 
+<!-- Uploading "From KlickPin CF fullstack-dankicode ffc _ Pixel art background Pixel animation Pixel artddz0861.gif"... -->
+
 I enjoy turning **messy data into clean insights**, **ideas into working systems**,  
 and **coffee into code ☕**.
 
