@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="assets/pixel-room.gif" width="100%" height="350px" />
+</p>
+
 # 👋 Hey there! I’m Sajal Vijayvargiya
 
 🎓 **B.Tech CSE - Jaypee University of Engineering and Technology(2023-2027)**  
 🧑‍💻 **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
 📍 **India 🇮🇳**
-
-![Pixel Workspace](assets/pixel-room.gif)
 
 I enjoy turning **messy data into clean insights**, **ideas into working systems**,  
 and **coffee into code ☕**.
