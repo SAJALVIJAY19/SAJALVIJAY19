@@ -1,6 +1,6 @@
 # 👋 Hey there! I’m Sajal Vijayvargiya
 
-🎓 **B.Tech CSE (Data Science & Analytics)**  
+🎓 **B.Tech CSE - Jaypee University of Engineering and Technology(2023-2027)**  
 🧑‍💻 **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
 📍 **India 🇮🇳**
 
