@@ -110,6 +110,7 @@ I realized I love building things that **actually work in the real world**.
 ### 🌐 Languages
 
 ![English](https://img.shields.io/badge/English-Fluent-2E7D32?style=for-the-badge)
+
 ![German](https://img.shields.io/badge/German-Conversational-1565C0?style=for-the-badge)
 
 
