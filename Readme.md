@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pixel-room.gif" width="90%" height="350px" />
+  <img src="assets/pixel-room.gif" width="70%" height="250px" />
 </p>
 
 # 👋 Hey there! I’m Sajal Vijayvargiya
