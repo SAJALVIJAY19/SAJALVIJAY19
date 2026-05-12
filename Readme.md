@@ -19,7 +19,7 @@ I realized I love building things that **actually work in the real world**.
 
 ## 🚀 What I’m Busy With These Days
 
-- 🧠 Battling **DSA (Python)** — some days I win, some days it humbles me  
+- 🧠 Battling **DSA** — some days I win, some days it humbles me  
 - 🏗️ Building **industry-style, end-to-end projects** (not just demos)
 - 📊 Making data tell meaningful stories using **Power BI & Python**
 - ⚙️ Learning **Data Engineering workflows** (pipelines > notebooks)
