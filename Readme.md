@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/pixel-room.gif" width="70%" height="250px" />
+  <img src="assets/pixel-room.gif" width="100%" height="350px" />
 </p>
 
 # 👋 Hey there! I’m Sajal Vijayvargiya
