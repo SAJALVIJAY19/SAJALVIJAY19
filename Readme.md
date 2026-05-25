@@ -35,7 +35,7 @@ I realized I love building things that **actually work in the real world**.
 
 <td width="40%" align="center">
 
-<img src="<img width="480" height="480" alt="Computer Coding GIF by Giflytics" src="https://github.com/user-attachments/assets/a3cdbe71-6154-4010-8be3-6cc180c388d6" />" width="250"/>
+"<img width="480" height="480" alt="Computer Coding GIF by Giflytics" src="https://github.com/user-attachments/assets/a3cdbe71-6154-4010-8be3-6cc180c388d6" />" 
 
 </td>
 </tr>
