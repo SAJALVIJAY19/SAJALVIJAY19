@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="assets/pixel-room.gif" width="70%" height="250px" />
 </p>
@@ -27,6 +28,8 @@ I realized I love building things that **actually work in the real world**.
 - 🧾 Maintaining different resume avatars (SDE, DA, DE, BA — yes, it’s a lot 😄)
 
 ---
+
+<img width="480" height="480" alt="Computer Coding GIF by Giflytics" src="https://github.com/user-attachments/assets/a3cdbe71-6154-4010-8be3-6cc180c388d6" />
 
 ## 🛠️ Tech Stack & Tools
 
