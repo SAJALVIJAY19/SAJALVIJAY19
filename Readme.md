@@ -17,19 +17,33 @@ Somewhere between debugging errors, optimizing SQL queries, and fixing
 I realized I love building things that **actually work in the real world**.
 
 ---
+<h2>🚀 What I'm Busy With These Days</h2>
 
-## 🚀 What I’m Busy With These Days
+<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🧠 Battling **DSA** — some days I win, some days it humbles me  
-- 🏗️ Building **industry-style, end-to-end projects** (not just demos)
-- 📊 Making data tell meaningful stories using **Power BI & Python**
-- ⚙️ Learning **Data Engineering workflows** (pipelines > notebooks)
-- ☁️ Understanding how software behaves *after* it leaves my laptop
-- 🧾 Maintaining different resume avatars (SDE, DA, DE, BA — yes, it’s a lot 😄)
+- 🧠 Battling DSA — some days I win, some days it humbles me  
+- 🏗️ Building industry-style, end-to-end projects (not just demos)  
+- 📊 Making data tell meaningful stories using Power BI & Python  
+- ⚙️ Learning Data Engineering workflows (pipelines > notebooks)  
+- ☕ Understanding how software behaves after it leaves my laptop  
+- 📄 Maintaining different resume avatars (SDE, DA, DE, BA ... yes, it's a lot 😅)
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="<img width="480" height="480" alt="Computer Coding GIF by Giflytics" src="https://github.com/user-attachments/assets/a3cdbe71-6154-4010-8be3-6cc180c388d6" />" width="250"/>
+
+</td>
+</tr>
+</table>
+</div>
 ---
 
-<img width="480" height="480" alt="Computer Coding GIF by Giflytics" src="https://github.com/user-attachments/assets/a3cdbe71-6154-4010-8be3-6cc180c388d6" />
+
 
 ## 🛠️ Tech Stack & Tools
 
