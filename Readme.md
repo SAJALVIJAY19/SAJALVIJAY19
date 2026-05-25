@@ -24,12 +24,17 @@ I realized I love building things that **actually work in the real world**.
 <tr>
 <td width="60%" valign="top">
 
-- 🧠 Battling DSA — some days I win, some days it humbles me  
-- 🏗️ Building industry-style, end-to-end projects (not just demos)  
-- 📊 Making data tell meaningful stories using Power BI & Python  
-- ⚙️ Learning Data Engineering workflows (pipelines > notebooks)  
-- ☕ Understanding how software behaves after it leaves my laptop  
-- 📄 Maintaining different resume avatars (SDE, DA, DE, BA ... yes, it's a lot 😅)
+-  Battling DSA — some days I win, some days it humbles me
+  
+-  Building industry-style, end-to-end projects (not just demos)
+  
+-  Making data tell meaningful stories using Power BI & Python
+  
+-  Learning Data Engineering workflows (pipelines > notebooks)
+  
+-  Understanding how software behaves after it leaves my laptop
+    
+-  Maintaining different resume avatars (SDE, DA, DE, BA ... yes, it's a lot 😅)
 
 </td>
 
