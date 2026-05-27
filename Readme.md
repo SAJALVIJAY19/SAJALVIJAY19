@@ -3,10 +3,10 @@
   <img src="assets/pixel-room.gif" width="100%" height="350px" />
 </p>
 
-# 👋 Hey there! I’m Sajal Vijayvargiya
+#  Hey there! I’m Sajal Vijayvargiya
 
-🎓 **B.Tech CSE - Jaypee University of Engineering and Technology(2023-2027)**  
-🧑‍💻 **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
+ **B.Tech CSE - Jaypee University of Engineering and Technology(2023-2027)**  
+ **Aspiring Software Engineer | Data Engineer | Data Analyst | Business Analyst**  
 📍 **India 🇮🇳**
 
 I enjoy turning **messy data into clean insights**, **ideas into working systems**,  
@@ -17,7 +17,7 @@ Somewhere between debugging errors, optimizing SQL queries, and fixing
 I realized I love building things that **actually work in the real world**.
 
 ---
-<h2>🚀 What I'm Busy With These Days</h2>
+<h2> What I'm Busy With These Days</h2>
 
 <div align="center">
 <table>
@@ -54,7 +54,7 @@ I realized I love building things that **actually work in the real world**.
 
 ---
 
-### 🧑‍💻 Programming & Core CS
+###  Programming & Core CS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,7 +74,7 @@ I realized I love building things that **actually work in the real world**.
 
 ---
 
-### 📊 Data Analytics & BI
+###  Data Analytics & BI
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -83,7 +83,7 @@ I realized I love building things that **actually work in the real world**.
 
 ---
 
-### 🤖 Machine Learning
+###  Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -92,7 +92,7 @@ I realized I love building things that **actually work in the real world**.
 
 ---
 
-### 🏗️ Software & Backend
+###  Software & Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF5722?style=for-the-badge)
