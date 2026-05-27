@@ -142,7 +142,6 @@ More about me → (https://github.com/SAJALVIJAY19/About-Me)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajal-vijay-6823b7295/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sajalvijay10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sajal-portfolio.vercel.app/)
 
 
 ---
