@@ -50,9 +50,7 @@ I realized I love building things that **actually work in the real world**.
 
 
 
-## 🛠️ Tech Stack & Tools
-
----
+# 🛠️ Tech Stack & Tools
 
 ###  Programming & Core CS
 
