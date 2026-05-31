@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/pixel-room.gif" width="100%" height="350px" />
+  <img width="250" height="370" alt="Off The Grid Technology GIF by ABCNT" src="https://github.com/user-attachments/assets/07268a55-c017-4f59-8055-028813e79c95" />
 </p>
 
 #  Hey there! I’m Sajal Vijayvargiya
@@ -145,4 +145,37 @@ More about me → (https://github.com/SAJALVIJAY19/About-Me)
 ---
 
 ### **Thank you for taking the time to explore my work. I appreciate your interest, and I look forward to potential collaboration or professional opportunities.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
