@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="250" height="370" alt="Off The Grid Technology GIF by ABCNT" src="https://github.com/user-attachments/assets/07268a55-c017-4f59-8055-028813e79c95" />
+  <img width="480" height="370" alt="Off The Grid Technology GIF by ABCNT" src="https://github.com/user-attachments/assets/07268a55-c017-4f59-8055-028813e79c95" />
 </p>
 
 #  Hey there! I’m Sajal Vijayvargiya
