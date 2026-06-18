@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img width="700" height="370" alt="Off The Grid Technology GIF by ABCNT" src="https://github.com/user-attachments/assets/07268a55-c017-4f59-8055-028813e79c95" />
-</p>
-
 #  Hey there! I’m Sajal Vijayvargiya
 
  **B.Tech CSE - Jaypee University of Engineering and Technology(2023-2027)**  
